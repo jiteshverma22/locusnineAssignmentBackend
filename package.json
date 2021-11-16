@@ -9,7 +9,7 @@
   "author": "Jitesh Verma",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.658.0",
+    "aws-sdk": "^2.814.0",
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
     "validate": "^5.1.0"
